@@ -1,10 +1,15 @@
 # Claude
 CLAUDE.md
 .claude/
+sessions/
 
 # Environment
 .env
 .env.*
+
+# Reference files
+voice-transcribe.py
+scrape_docs.py
 
 # Scraped docs
 *-docs/

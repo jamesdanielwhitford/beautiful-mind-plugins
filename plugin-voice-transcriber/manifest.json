@@ -1,0 +1,10 @@
+{
+  "id": "voice-note-transcriber",
+  "name": "Voice Note Transcriber",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Transcribes audio files dropped into a vault folder using Mistral Voxtral.",
+  "author": "James Whitford",
+  "authorUrl": "https://github.com/jamesdanielwhitford",
+  "isDesktopOnly": false
+}
