@@ -1,0 +1,25 @@
+# Claude
+CLAUDE.md
+.claude/
+
+# Environment
+.env
+.env.*
+
+# Scraped docs
+*-docs/
+obsidian-docs/
+
+# Node
+node_modules/
+dist/
+*.js.map
+
+# Build artifacts
+main.js
+
+# OS
+.DS_Store
+
+# Logs
+*.log
